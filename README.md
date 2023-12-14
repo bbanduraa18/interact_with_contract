@@ -1,12 +1,12 @@
 # Interact-with-contract-example
 
-To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies. Then run `touch .env`, open `.env` file and paste your API Key and your Private Key in format:
+To get started with the repository, clone it and then run `npm install` in the top-level directory to install the dependencies. Then run `touch .env`, open `.env` file, and paste your API Key and your Private Key in the format:
 `PRIVATE_KEY=YOUR_PRIVATE_KEY`
 `API_KEY=YOUR_API_KEY`
 
 ## Contract
 
-It's simple Counter Smart Contract.
+It's a simple Counter Smart Contract.
 Contract now deployed on Göerli test network: https://goerli.etherscan.io/address/0x5F91eCd82b662D645b15Fd7D2e20E5e5701CCB7A
 
 ## Functions 
