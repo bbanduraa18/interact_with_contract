@@ -1,6 +1,8 @@
 # Interact-with-contract-example
 
-To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
+To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies. Then run `touch .env`, open `.env` file and paste your API Key and your Private Key in format:
+`PRIVATE_KEY=YOUR_PRIVATE_KEY
+API_KEY=YOUR_API_KEY`
 
 ## Contract
 
